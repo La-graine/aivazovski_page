@@ -17,15 +17,13 @@
     border: none;
     border-radius: 21px;
     margin: 75px 0 30px;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
 }
 
 .contacts-button:hover {
     opacity: .7;
-}
-
-.button-link {
-    font-size: 24px;
-    font-weight: 500;
 }
 
 .socials {
